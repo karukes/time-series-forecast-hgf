@@ -1,0 +1,9 @@
+gradio
+pandas==1.5.2
+statsmodels
+matplotlib
+scikit-learn
+statsmodels
+plotly
+miceforest
+numpy
